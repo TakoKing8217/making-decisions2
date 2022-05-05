@@ -100,8 +100,12 @@ if (backpack.length >= 3) {
     console.log(backpack[i]);
   }
 }
+console.log("by for now");
 // Practice the Do While Loops
 // You can declare something with a null or undefined and
 // then update its value down the code
 // When working with a big problem its best to break it down
 // into pseudo code
+
+// i + esc + colon +
+// escape + control + Q
